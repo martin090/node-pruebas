@@ -1,0 +1,6 @@
+node-web-server/node_modules/
+node-web-server/package-lock.json
+node-web-server/server.log
+prueba1/
+wheather-app/node_modules/
+wheather-app/package-lock.json
